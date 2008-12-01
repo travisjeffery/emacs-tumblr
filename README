@@ -1,0 +1,4 @@
+cd ~/.emacs.d
+git clone git://github.com/travisjeffery/tumblr-for-emacs.git
+
+More details in tumblr.el
