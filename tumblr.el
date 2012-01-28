@@ -1,3 +1,5 @@
+;;; tumblr.el --- Post to Tumblr using its HTTP-based API
+
 ;; Copyright (c) 2008 Travis Jeffery
 ;; Time-stamp: 2008-10-05
 ;; Author: Travis Jeffery <eatsleepgolf@gmail.com>
@@ -21,7 +23,7 @@
 
 ;;; Commentary:
 
-;; This is a set of interactive function used to post to Tumblr.
+;; This is a set of interactive functions used to post to Tumblr.
 ;; This uses Tumblr's HTTP-based api.
 
 ;;;  Use:
